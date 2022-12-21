@@ -10,7 +10,7 @@
 }
 #large-header {
   /* background-image: url(doni1.jpg); */
-  background-image: url("../img/demo.jpg");
+  background-image: url("./img/demo.jpg");
 
 
   /* background-color: #cccccc; Used if the image is unavailable */
