@@ -9,7 +9,7 @@ html, body {
   }
 
 .bg-container {
-    background-image: url("../img/donce.jpg");
+    background-image: url("./img/donce.jpg");
     background-size:cover;
     background-repeat:no-repeat;
     background-position:center center;
