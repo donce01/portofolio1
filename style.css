@@ -1,4 +1,12 @@
 /* Header */
+
+html, body {
+  overflow-x: hidden;
+  -ms-overflow-style: none; 
+  scrollbar-width: none; 
+}
+
+
 .large-header {
   position: relative;
   width: 100%;
@@ -384,3 +392,9 @@ footer.nb-footer {
 }
 
 
+@media(max-width: 600px) {
+  .containeri {
+    perspective: 3000px;
+    /* overflow-x: hidden; */
+  }
+}
